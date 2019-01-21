@@ -85,7 +85,7 @@ a:hover{
 }
 
 .post-author, .about{
-    background-color: #f9f9f9;
+    background-color: #f9f99;
     border-radius: 2%;
     padding:2px;
 }
@@ -108,7 +108,7 @@ a:hover{
     text-transform: uppercase;
 }
 img {
-    border: black 4px solid;
+    border: #555 4px solid;
     border-radius: 50%;
 }
 
