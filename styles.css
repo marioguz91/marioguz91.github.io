@@ -7,7 +7,7 @@ body {
 }
 
 a {
-    color: #1abc9c;
+    color: #1aaa9f;
     text-decoration: none;
 }
 
@@ -63,12 +63,7 @@ a:hover{
 
 /* BODY */
 
-#divider {
-    background-color: #efefef;
-    height: 10px;
-    
 
-}
 
 .post, .about{
     max-width: 800px;
