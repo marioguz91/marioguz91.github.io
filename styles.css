@@ -133,6 +133,7 @@ p {
 #footer, #aboutFooter {
     background-color:#2f2f2f;
     padding: 50px 0;
+    text-align: center;
 }
 
 #aboutFooter {
