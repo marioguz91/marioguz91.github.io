@@ -73,14 +73,17 @@ a:hover{
 
 .about {
     text-align: center;
+    height: 1000px
 }
 
 .about-author img {
-    margin-left: 260px;
+    margin-left: 150px;
+    height: 100px;
+    width: 100px;
 }
 
 .post-author, .about{
-    background-color: #f9f99;
+    background-color: #efefef;
     border-radius: 2%;
     padding:2px;
 }
@@ -125,14 +128,16 @@ p {
 
 /* FOOTER */
 
-#footer, #aboutFooter {
+#footer {
     background-color:#2f2f2f;
     padding: 50px 0;
     text-align: center;
 }
 
 #aboutFooter {
+    background-color:#2f2f2f;
     text-align: center;
+    height: 100%;
 }
 
 #footer h4, #aboutFooter h4{
